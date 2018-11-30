@@ -1,0 +1,36 @@
+﻿  VStack.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\vstack.c(38): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  VNode.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\vnode.c(8): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\vnode.c(12): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Postfix.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(27): warning C4013: 'VStack_reset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(146): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(147): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(160): warning C4013: 'AppIO_out_showToken'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(161): warning C4013: 'AppIO_out_bottomOfVStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(163): warning C4013: 'VStack_showAll'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(165): warning C4013: 'AppIO_out_topOfVStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(166): warning C4013: 'AppIO_out_newLine'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\postfix.c(159): warning C4101: 'element' :참조되지 않은 지역 변수입니다.
+  OStack.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\ostack.c(92): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\ostack.c(82): warning C4133: '초기화 중': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  ONode.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\onode.c(8): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\onode.c(12): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Infix.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(68): warning C4013: 'Infix_inComingPrecedence'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(69): warning C4013: 'Infix_inStackPrecedence'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(69): warning C4013: 'OStack_peek'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(92): warning C4013: 'AppIO_out_showToken'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(93): warning C4013: 'AppIO_out_bottomOfOStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(95): warning C4013: 'OStack_showAll'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(97): warning C4013: 'AppIO_out_topOfOStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(98): warning C4013: 'AppIO_out_newLine'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\infix.c(91): warning C4101: 'element' :참조되지 않은 지역 변수입니다.
+  AppController.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-2\hw12-2\appcontroller.c(19): warning C4101: 'noErrorIsInEvaluation' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  HW12-2.vcxproj -> c:\users\KimDoYeon\documents\visual studio 2015\Projects\HW12-2\Debug\HW12-2.exe
+  HW12-2.vcxproj -> c:\users\KimDoYeon\documents\visual studio 2015\Projects\HW12-2\Debug\HW12-2.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿  Stack.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-1\hw12-1\stack.c(38): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Postfix.c
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-1\hw12-1\postfix.c(29): warning C4013: 'Stack_reset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-1\hw12-1\postfix.c(142): warning C4013: 'AppIO_out_showToken'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-1\hw12-1\postfix.c(143): warning C4013: 'AppIO_out_bottomOfStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-1\hw12-1\postfix.c(150): warning C4013: 'Stack_showAll'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-1\hw12-1\postfix.c(152): warning C4013: 'AppIO_out_topOfStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-1\hw12-1\postfix.c(153): warning C4013: 'AppIO_out_newLine'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kimdoyeon\documents\visual studio 2015\projects\hw12-1\hw12-1\postfix.c(141): warning C4101: 'element' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  HW12-1.vcxproj -> C:\Users\KimDoYeon\documents\visual studio 2015\Projects\HW12-1\Debug\HW12-1.exe
+  HW12-1.vcxproj -> C:\Users\KimDoYeon\documents\visual studio 2015\Projects\HW12-1\Debug\HW12-1.pdb (Full PDB)
